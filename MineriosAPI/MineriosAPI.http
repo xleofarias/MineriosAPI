@@ -1,0 +1,6 @@
+@MineriosAPI_HostAddress = http://localhost:5251
+
+GET {{MineriosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
